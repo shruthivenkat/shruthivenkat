@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://shruthivenkat.github.io/
+
 ![](https://komarev.com/ghpvc/?username=shruthivenkat)
